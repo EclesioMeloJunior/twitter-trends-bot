@@ -15,6 +15,9 @@ A bot to post Google Trends on Twitter
 }
 ```
 
-2. ```js
-   yarn install && yarn run
-   ```
+2. Run the bot with **YARN** or **NPM**
+
+```js
+    yarn install && yarn start
+    npm install && npm start
+```
