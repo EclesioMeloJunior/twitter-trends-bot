@@ -1,8 +1,10 @@
 # twitter-trends-bot
+
 A bot to post Google Trends on Twitter
 
 # To run
-1. Set your twitter credentials at *.credentials/twitter-credentials.json*
+
+1. Set your twitter credentials at _.credentials/twitter-credentials.json_
 
 ```js
 {
@@ -12,3 +14,7 @@ A bot to post Google Trends on Twitter
     "accessTokenSecret": ""
 }
 ```
+
+2. ```js
+   yarn install && yarn run
+   ```
